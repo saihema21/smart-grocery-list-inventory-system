@@ -67,17 +67,15 @@ npm start
 ## 🌐 Deployment
 - Frontend: Vercel / Netlify  
 - Backend: Render (optional future upgrade)  
-- Database: MongoDB Atlas (future upgrade)
+- Database: MongoDB Atlas (future upgrade) 
 
-## 📸 Screenshots 
+## 📸 Screenshots
 
-Dashboard Preview:
-
-![Dashboard 1](screenshots/dashboard_1.png)  
-![Dashboard 2](screenshots/dashboard_2.png)  
-![Dashboard 3](screenshots/dashboard_3.png)  
-![Dashboard 4](screenshots/dashboard_4.png)  
-![Dashboard 5](screenshots/dashboard_5.png)
+![Dashboard 1](https://raw.githubusercontent.com/saihema21/smart-grocery-list-inventory-system/main/screenshots/dashboard_1.png)
+![Dashboard 2](https://raw.githubusercontent.com/saihema21/smart-grocery-list-inventory-system/main/screenshots/dashboard_2.png)
+![Dashboard 3](https://raw.githubusercontent.com/saihema21/smart-grocery-list-inventory-system/main/screenshots/dashboard_3.png)
+![Dashboard 4](https://raw.githubusercontent.com/saihema21/smart-grocery-list-inventory-system/main/screenshots/dashboard_4.png)
+![Dashboard 5](https://raw.githubusercontent.com/saihema21/smart-grocery-list-inventory-system/main/screenshots/dashboard_5.png)
 
 ## 📚 Learning Outcomes
 - React state management
@@ -90,6 +88,7 @@ Dashboard Preview:
 
 ## 👨‍💻 Author
 S.Hemalatha
+
 Built by a student as a Full Stack Development portfolio project.
 
 ## 🚀 Future Enhancements
