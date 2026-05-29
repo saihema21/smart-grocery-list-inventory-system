@@ -69,7 +69,7 @@ npm start
 - Backend: Render (optional future upgrade)  
 - Database: MongoDB Atlas (future upgrade)
 
-## 📸 Screenshots / Outputs
+## 📸 Screenshots 
 
 Dashboard Preview:
 
